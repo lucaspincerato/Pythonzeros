@@ -1,0 +1,192 @@
+ReportDate;BusinessTransactionType;BusinessTransactionCycle;ReversalIndicator;Count;GrossAmount;InterchangeAmount;NetAmount;DefermentDays
+01/01/2021;Merchandise Credit;Originals;N;1037;92168,84;568,75;-91.600,09;
+01/01/2021;Merchandise Credit;Originals;N;11743;1782062,81;30.420,12;-1.751.642,69;27
+01/01/2021;Purchase;Dispute Financial;N;2571;285678,70;4.612,77;-281.065,93;
+01/01/2021;Purchase;Dispute Response Financial;N;77;32038,15;514,85;31.523,30;
+01/01/2021;Purchase;Not Defined;Y;284;62075,85;968,32;61.107,53;
+01/01/2021;Purchase;Originals;N;1466926;90124140,80;518.299,01;89.605.841,79;
+01/01/2021;Purchase;Originals;N;1261668;103417683,42;1.562.797,88;101.854.885,54;27
+02/01/2021;Merchandise Credit;Originals;N;866;63238,64;388,92;-62.849,72;
+02/01/2021;Merchandise Credit;Originals;N;7516;743984,52;12.927,15;-731.057,37;27
+02/01/2021;Purchase;Dispute Financial;N;1185;90823,40;1.384,86;-89.438,54;
+02/01/2021;Purchase;Dispute Response Financial;N;67;10627,85;183,73;10.444,12;
+02/01/2021;Purchase;Not Defined;Y;16;4161,66;59,86;4.101,80;
+02/01/2021;Purchase;Originals;N;521978;24273578,66;142.227,78;24.131.350,88;
+02/01/2021;Purchase;Originals;N;660262;61070674,79;988.040,28;60.082.634,51;27
+03/01/2021;Merchandise Credit;Originals;N;395;25796,36;164,04;-25.632,32;
+03/01/2021;Merchandise Credit;Originals;N;8118;472457,31;8.359,66;-464.097,65;27
+03/01/2021;Purchase;Dispute Financial;N;380;108589,07;2.036,83;-106.552,24;
+03/01/2021;Purchase;Dispute Response Financial;N;88;17742,08;298,63;17.443,45;
+03/01/2021;Purchase;Not Defined;Y;37;34909,90;485,85;34.424,05;
+03/01/2021;Purchase;Originals;N;1044616;55970065,67;326.139,60;55.643.926,07;
+03/01/2021;Purchase;Originals;N;1037367;90130575,31;1.422.227,56;88.708.347,75;27
+04/01/2021;Merchandise Credit;Originals;N;581;37710,71;229,37;-37.481,34;
+04/01/2021;Merchandise Credit;Originals;N;4632;445421,39;7.699,95;-437.721,44;27
+04/01/2021;Purchase;Dispute Financial;N;307;77479,90;1.267,61;-76.212,29;
+04/01/2021;Purchase;Not Defined;Y;34;11495,58;150,44;11.345,14;
+04/01/2021;Purchase;Originals;N;821547;38838781,41;228.327,05;38.610.454,36;
+04/01/2021;Purchase;Originals;N;892604;75616112,22;1.209.768,96;74.406.343,26;27
+05/01/2021;Fee Collection RC=0350;The transaction does not have a cycle.;N;1;108,37;0;-108,37;
+05/01/2021;Funds Disbursement RC=0350;The transaction does not have a cycle.;N;3;1634,70;0;-1.634,70;
+05/01/2021;Funds Disbursement RC=0350;The transaction does not have a cycle.;N;1;229,79;0;229,79;2
+05/01/2021;Merchandise Credit;Originals;N;636;33465,83;191,23;-33.274,60;
+05/01/2021;Merchandise Credit;Originals;N;4365;320032,11;5.638,80;-314.393,31;27
+05/01/2021;Purchase;Dispute Financial;N;3042;456820,43;6.565,57;-450.254,86;
+05/01/2021;Purchase;Dispute Response Financial;N;13;5812,56;56,01;5.756,55;
+05/01/2021;Purchase;Not Defined;Y;663;200904,92;3.735,06;197.169,86;
+05/01/2021;Purchase;Originals;N;1127893;73894239,70;442.879,64;73.451.360,06;
+05/01/2021;Purchase;Originals;N;980120;89117090,17;1.390.191,59;87.726.898,58;27
+06/01/2021;Merchandise Credit;Originals;N;765;91626,44;564,53;-91.061,91;
+06/01/2021;Merchandise Credit;Originals;N;17740;2268824,95;38.575,99;-2.230.248,96;27
+06/01/2021;Purchase;Dispute Financial;N;1733;234307,91;3.655,77;-230.652,14;
+06/01/2021;Purchase;Dispute Response Financial;N;51;4480,87;88,84;4.392,03;
+06/01/2021;Purchase;Not Defined;Y;1075;272489,94;4.467,26;268.022,68;
+06/01/2021;Purchase;Originals;N;1203991;77930759,71;465.496,14;77.465.263,57;
+06/01/2021;Purchase;Originals;N;1112288;106281295,58;1.667.259,51;104.614.036,07;27
+07/01/2021;Merchandise Credit;Dispute Financial;N;1;145,08;1,78;143,3;
+07/01/2021;Merchandise Credit;Originals;N;761;73288,28;437,03;-72.851,25;
+07/01/2021;Merchandise Credit;Originals;N;17285;2022792,68;34.163,31;-1.988.629,37;27
+07/01/2021;Purchase;Dispute Financial;N;2129;295500,53;4.759,06;-290.741,47;
+07/01/2021;Purchase;Dispute Response Financial;N;147;23784,03;377,41;23.406,62;
+07/01/2021;Purchase;Not Defined;Y;424;159622,66;2.710,88;156.911,78;
+07/01/2021;Purchase;Originals;N;1212059;76729406,65;461.007,07;76.268.399,58;
+07/01/2021;Purchase;Originals;N;1093995;102322356,13;1.609.183,69;100.713.172,44;27
+08/01/2021;Merchandise Credit;Originals;N;816;77836,58;484,11;-77.352,47;
+08/01/2021;Merchandise Credit;Originals;N;11201;1802856,26;30.606,26;-1.772.250,00;27
+08/01/2021;Purchase;Dispute Financial;N;2799;422453,98;6.622,75;-415.831,23;
+08/01/2021;Purchase;Dispute Response Financial;N;68;19621,06;310;19.311,06;
+08/01/2021;Purchase;Not Defined;Y;895;191558,65;3.485,15;188.073,50;
+08/01/2021;Purchase;Originals;N;1286138;80435307,81;482.489,38;79.952.818,43;
+08/01/2021;Purchase;Originals;N;1167314;112300844,11;1.781.589,87;110.519.254,24;27
+09/01/2021;Fee Collection RC=0350;The transaction does not have a cycle.;N;2;146,48;0;146,48;
+09/01/2021;Fee Collection RC=0350;The transaction does not have a cycle.;N;1;2519,00;0;-2.519,00;2
+09/01/2021;Merchandise Credit;Originals;N;925;81478,98;501,51;-80.977,47;
+09/01/2021;Merchandise Credit;Originals;N;11756;1930819,08;32.755,53;-1.898.063,55;27
+09/01/2021;Purchase;Dispute Financial;N;3338;562371,92;9.291,39;-553.080,53;
+09/01/2021;Purchase;Dispute Response Financial;N;95;8963,27;170,34;8.792,93;
+09/01/2021;Purchase;Not Defined;Y;307;83660,35;1.454,59;82.205,76;
+09/01/2021;Purchase;Originals;N;1476152;92647613,70;552.660,55;92.094.953,15;
+09/01/2021;Purchase;Originals;N;1258771;116218580,23;1.828.450,76;114.390.129,47;27
+10/01/2021;Merchandise Credit;Dispute Financial;N;1;25,00;0,33;24,67;
+10/01/2021;Merchandise Credit;Originals;N;1009;88451,82;530,65;-87.921,17;
+10/01/2021;Merchandise Credit;Originals;N;18052;2420470,18;40.378,90;-2.380.091,28;27
+10/01/2021;Purchase;Dispute Financial;N;1626;320349,40;5.281,90;-315.067,50;
+10/01/2021;Purchase;Dispute Response Financial;N;50;9792,56;159,84;9.632,72;
+10/01/2021;Purchase;Not Defined;Y;58;9256,01;132,57;9.123,44;
+10/01/2021;Purchase;Originals;N;1493736;86647073,57;510.540,03;86.136.533,54;
+10/01/2021;Purchase;Originals;N;1361812;116396466,32;1.823.710,80;114.572.755,52;27
+11/01/2021;Merchandise Credit;Originals;N;828;68533,76;396,38;-68.137,38;
+11/01/2021;Merchandise Credit;Originals;N;12391;927984,94;17.149,08;-910.835,86;27
+11/01/2021;Purchase;Dispute Financial;N;220;44077,94;802,5;-43.275,44;
+11/01/2021;Purchase;Dispute Response Financial;N;96;17296,48;308,23;16.988,25;
+11/01/2021;Purchase;Not Defined;Y;24;4703,07;77,16;4.625,91;
+11/01/2021;Purchase;Originals;N;946900;44212205,05;258.975,74;43.953.229,31;
+11/01/2021;Purchase;Originals;N;1011111;84786235,29;1.340.425,37;83.445.809,92;27
+12/01/2021;Fee Collection RC=0350;The transaction does not have a cycle.;N;1;102,98;0;-102,98;
+12/01/2021;Merchandise Credit;Originals;N;626;38687,20;236,2;-38.451,00;
+12/01/2021;Merchandise Credit;Originals;N;5162;337500,10;5.861,36;-331.638,74;27
+12/01/2021;Purchase;Dispute Financial;N;2523;429616,76;6.745,25;-422.871,51;
+12/01/2021;Purchase;Dispute Response Financial;N;1;55,00;1,24;53,76;
+12/01/2021;Purchase;Not Defined;Y;1070;312550,81;5.772,56;306.778,25;
+12/01/2021;Purchase;Originals;N;1103967;71221876,93;431.446,62;70.790.430,31;
+12/01/2021;Purchase;Originals;N;1036831;98543233,21;1.533.768,00;97.009.465,21;27
+13/01/2021;Fee Collection RC=0350;The transaction does not have a cycle.;N;7;2544,55;0;2.544,55;
+13/01/2021;Funds Disbursement RC=0350;The transaction does not have a cycle.;N;1;103,41;0;103,41;
+13/01/2021;Merchandise Credit;Not Defined;Y;1;568,50;9,27;559,23;
+13/01/2021;Merchandise Credit;Originals;N;827;63288,11;383,28;-62.904,83;
+13/01/2021;Merchandise Credit;Originals;N;15144;2189395,91;37.865,92;-2.151.529,99;27
+13/01/2021;Purchase;Dispute Financial;N;2864;441098,69;6.979,49;-434.119,20;
+13/01/2021;Purchase;Not Defined;Y;367;66625,83;1.021,41;65.604,42;
+13/01/2021;Purchase;Originals;N;1146058;71819206,13;434.802,62;71.384.403,51;
+13/01/2021;Purchase;Originals;N;1159981;110168015,24;1.741.952,52;108.426.062,72;27
+14/01/2021;Fee Collection RC=0350;The transaction does not have a cycle.;N;1;6142,86;0;6.142,86;
+14/01/2021;Fee Collection RC=0350;The transaction does not have a cycle.;N;2;2128,14;0;-2.128,14;2
+14/01/2021;Funds Disbursement RC=0350;The transaction does not have a cycle.;N;5;51,23;0;-51,23;
+14/01/2021;Merchandise Credit;Originals;N;767;73089,67;432,17;-72.657,50;
+14/01/2021;Merchandise Credit;Originals;N;11989;1858754,67;31.516,16;-1.827.238,51;27
+14/01/2021;Purchase;Dispute Financial;N;2576;470671,99;7.613,17;-463.058,82;
+14/01/2021;Purchase;Dispute Response Financial;N;137;29585,72;462,38;29.123,34;
+14/01/2021;Purchase;Not Defined;Y;411;78088,49;1.251,10;76.837,39;
+14/01/2021;Purchase;Originals;N;1171139;72651114,23;439.790,51;72.211.323,72;
+14/01/2021;Purchase;Originals;N;1166396;108229818,77;1.690.525,84;106.539.292,93;27
+15/01/2021;Funds Disbursement RC=0350;The transaction does not have a cycle.;N;3;180,24;0;180,24;2
+15/01/2021;Merchandise Credit;Originals;N;789;85705,34;595,4;-85.109,94;
+15/01/2021;Merchandise Credit;Originals;N;11137;1732446,13;29.509,24;-1.702.936,89;27
+15/01/2021;Purchase;Dispute Financial;N;2052;439346,61;7.283,22;-432.063,39;
+15/01/2021;Purchase;Dispute Response Financial;N;131;23604,42;367,9;23.236,52;
+15/01/2021;Purchase;Not Defined;Y;515;94392,55;1.724,85;92.667,70;
+15/01/2021;Purchase;Originals;N;1181258;72314497,26;438.395,24;71.876.102,02;
+15/01/2021;Purchase;Originals;N;1230049;115584564,54;1.817.623,08;113.766.941,46;27
+16/01/2021;Fee Collection RC=0350;The transaction does not have a cycle.;N;1;369,27;0;-369,27;
+16/01/2021;Fee Collection RC=0350;The transaction does not have a cycle.;N;1;316,32;0;-316,32;2
+16/01/2021;Funds Disbursement RC=0350;The transaction does not have a cycle.;N;1;97,87;0;97,87;2
+16/01/2021;Merchandise Credit;Originals;N;817;69693,94;439,25;-69.254,69;
+16/01/2021;Merchandise Credit;Originals;N;24420;1802877,66;30.624,06;-1.772.253,60;27
+16/01/2021;Purchase;Dispute Financial;N;5140;686156,11;10.753,26;-675.402,85;
+16/01/2021;Purchase;Dispute Response Financial;N;86;28422,71;405,43;28.017,28;
+16/01/2021;Purchase;Not Defined;Y;232;30960,30;461,4;30.498,90;
+16/01/2021;Purchase;Originals;N;1344495;82854739,91;497.306,92;82.357.432,99;
+16/01/2021;Purchase;Originals;N;1312221;119074037,97;1.854.431,83;117.219.606,14;27
+17/01/2021;Merchandise Credit;Originals;N;933;83137,52;510,47;-82.627,05;
+17/01/2021;Merchandise Credit;Originals;N;17448;1809659,49;31.019,32;-1.778.640,17;27
+17/01/2021;Purchase;Dispute Financial;N;2508;334187,63;5.582,72;-328.604,91;
+17/01/2021;Purchase;Dispute Response Financial;N;52;9641,99;178,32;9.463,67;
+17/01/2021;Purchase;Not Defined;Y;70;7832,82;141,64;7.691,18;
+17/01/2021;Purchase;Originals;N;1415529;80092605,34;473.731,31;79.618.874,03;
+17/01/2021;Purchase;Originals;N;1402491;118246028,86;1.835.797,40;116.410.231,46;27
+18/01/2021;Merchandise Credit;Originals;N;788;63273,10;398,91;-62.874,19;
+18/01/2021;Merchandise Credit;Originals;N;5047;646861,06;11.080,67;-635.780,39;27
+18/01/2021;Purchase;Dispute Financial;N;40;3693,47;43,98;-3.649,49;
+18/01/2021;Purchase;Dispute Response Financial;N;75;11586,26;221,51;11.364,75;
+18/01/2021;Purchase;Not Defined;Y;30;3383,32;59,38;3.323,94;
+18/01/2021;Purchase;Originals;N;888517;40235595,79;236.401,73;39.999.194,06;
+18/01/2021;Purchase;Originals;N;1011430;81240600,93;1.283.316,56;79.957.284,37;27
+19/01/2021;Funds Disbursement RC=0350;The transaction does not have a cycle.;N;1;494,99;0;494,99;
+19/01/2021;Funds Disbursement RC=0350;The transaction does not have a cycle.;N;1;20,00;0;20;2
+19/01/2021;Merchandise Credit;Originals;N;519;24683,82;145,02;-24.538,80;
+19/01/2021;Merchandise Credit;Originals;N;4609;345706,78;5.937,89;-339.768,89;27
+19/01/2021;Purchase;Dispute Financial;N;1798;264911,96;4.122,91;-260.789,05;
+19/01/2021;Purchase;Dispute Response Financial;N;36;2871,89;63,17;2.808,72;
+19/01/2021;Purchase;Not Defined;Y;170;24486,19;348,53;24.137,66;
+19/01/2021;Purchase;Originals;N;1018039;63276318,61;385.477,61;62.890.841,00;
+19/01/2021;Purchase;Originals;N;1019483;91805949,49;1.431.538,17;90.374.411,32;27
+20/01/2021;Fee Collection RC=0350;The transaction does not have a cycle.;N;1;525,00;0;525;
+20/01/2021;Merchandise Credit;Originals;N;914;76208,16;469,09;-75.739,07;
+20/01/2021;Merchandise Credit;Originals;N;16630;2121710,20;36.295,62;-2.085.414,58;27
+20/01/2021;Purchase;Dispute Financial;N;2961;564097,22;8.832,84;-555.264,38;
+20/01/2021;Purchase;Not Defined;Y;271;18217,33;329,94;17.887,39;
+20/01/2021;Purchase;Originals;N;1109317;67719005,00;410.916,59;67.308.088,41;
+20/01/2021;Purchase;Originals;N;1183197;106620186,29;1.687.092,89;104.933.093,40;27
+21/01/2021;Funds Disbursement RC=0350;The transaction does not have a cycle.;N;5;439,23;0;439,23;2
+21/01/2021;Merchandise Credit;Originals;N;707;66194,02;375,91;-65.818,11;
+21/01/2021;Merchandise Credit;Originals;N;12153;1902822,45;32.751,02;-1.870.071,43;27
+21/01/2021;Purchase;Dispute Financial;N;1743;302439,80;5.030,84;-297.408,96;
+21/01/2021;Purchase;Dispute Response Financial;N;63;23748,13;341,27;23.406,86;
+21/01/2021;Purchase;Not Defined;Y;219;11822,95;178,99;11.643,96;
+21/01/2021;Purchase;Originals;N;1159288;68569486,51;415.785,04;68.153.701,47;
+21/01/2021;Purchase;Originals;N;1180603;104083925,41;1.639.882,09;102.444.043,32;27
+22/01/2021;Fee Collection RC=5040;The transaction does not have a cycle.;N;5;12596772,63;0;-12.596.772,63;
+22/01/2021;Funds Disbursement RC=0350;The transaction does not have a cycle.;N;2;90,18;0;90,18;
+22/01/2021;Funds Disbursement RC=0350;The transaction does not have a cycle.;N;1;237,00;0;237;2
+22/01/2021;Merchandise Credit;Originals;N;931;95362,61;572,67;-94.789,94;
+22/01/2021;Merchandise Credit;Originals;N;10843;1591633,72;27.322,89;-1.564.310,83;27
+22/01/2021;Purchase;Dispute Financial;N;2370;460928,47;7.416,17;-453.512,30;
+22/01/2021;Purchase;Dispute Response Financial;N;112;59463,76;1.095,85;58.367,91;
+22/01/2021;Purchase;Not Defined;Y;522;27946,92;395,83;27.551,09;
+22/01/2021;Purchase;Originals;N;1231273;72420877,53;440.724,70;71.980.152,83;
+22/01/2021;Purchase;Originals;N;1278222;115277385,02;1.829.357,11;113.448.027,91;27
+23/01/2021;Merchandise Credit;Dispute Financial;N;2;698,24;14,74;683,5;
+23/01/2021;Merchandise Credit;Originals;N;920;82308,48;468,08;-81.840,40;
+23/01/2021;Merchandise Credit;Originals;N;10872;1746431,08;29.179,37;-1.717.251,71;27
+23/01/2021;Purchase;Dispute Financial;N;2794;544545,52;8.504,32;-536.041,20;
+23/01/2021;Purchase;Dispute Response Financial;N;38;23670,49;411,22;23.259,27;
+23/01/2021;Purchase;Not Defined;Y;271;10512,91;122,57;10.390,34;
+23/01/2021;Purchase;Originals;N;1495147;88176902,23;531.245,63;87.645.656,60;
+23/01/2021;Purchase;Originals;N;1339551;113836430,80;1.779.582,67;112.056.848,13;27
+24/01/2021;Merchandise Credit;Originals;N;785;69209,96;399,64;-68.810,32;
+24/01/2021;Merchandise Credit;Originals;N;10908;1632852,88;27.724,69;-1.605.128,19;27
+24/01/2021;Purchase;Dispute Financial;N;999;215172,84;3.689,71;-211.483,13;
+24/01/2021;Purchase;Dispute Response Financial;N;131;53223,45;865,91;52.357,54;
+24/01/2021;Purchase;Not Defined;Y;44;6315,08;89,38;6.225,70;
+24/01/2021;Purchase;Originals;N;1569111;86706810,07;511.822,30;86.194.987,77;
+24/01/2021;Purchase;Originals;N;1333650;103077559,69;1.568.283,12;101.509.276,57;27
