@@ -1,0 +1,21 @@
+ReportDate;BusinessTransactionType;BusinessTransactionCycle;ReversalIndicator;Count;GrossAmount;InterchangeAmount;NetAmount;DefermentDays
+2021-02-05;Fee Collection RC=0350;The transaction does not have a cycle.;N;3;433,85;0,00;433,85;   
+2021-02-05;Funds Disbursement RC=0350;The transaction does not have a cycle.;N;2;5138,17;0,00;5138,17;002
+2021-02-05;Merchandise Credit;Dispute Financial;N;6;74,79;0,85;73,94;   
+2021-02-05;Merchandise Credit;Originals;N;818;71091,71;443,38;-70648,33;   
+2021-02-05;Merchandise Credit;Originals;N;11550;1776864,18;30778,79;-1746085,39;027
+2021-02-05;Purchase;Dispute Financial;N;2796;505020,87;8161,77;-496859,10;   
+2021-02-05;Purchase;Dispute Response Financial;N;86;16860,62;264,24;16596,38;   
+2021-02-05;Purchase;Not Defined;Y;290;32044,43;519,98;31524,45;   
+2021-02-05;Purchase;Originals;N;1404475;84043865,17;506235,98;83537629,19;   
+2021-02-05;Purchase;Originals;N;1228313;114341631,52;1791748,51;112549883,01;027
+2021-02-06;Fee Collection RC=0350;The transaction does not have a cycle.;N;2;1570,00;0,00;1570,00;   
+2021-02-06;Fee Collection RC=0350;The transaction does not have a cycle.;N;1;4900,00;0,00;-4900,00;002
+2021-02-06;Funds Disbursement RC=0350;The transaction does not have a cycle.;N;1;381,20;0,00;381,20;002
+2021-02-06;Merchandise Credit;Originals;N;879;83482,75;499,69;-82983,06;   
+2021-02-06;Merchandise Credit;Originals;N;11236;1832041,52;31890,70;-1800150,82;027
+2021-02-06;Purchase;Dispute Financial;N;2534;496385,68;7752,14;-488633,54;   
+2021-02-06;Purchase;Dispute Response Financial;N;41;27219,89;504,42;26715,47;   
+2021-02-06;Purchase;Not Defined;Y;237;19918,70;309,06;19609,64;   
+2021-02-06;Purchase;Originals;N;1731061;106388089,74;630909,06;105757180,68;   
+2021-02-06;Purchase;Originals;N;1273381;117182801,71;1808153,22;115374648,49;027

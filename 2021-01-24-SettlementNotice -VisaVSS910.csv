@@ -1,0 +1,34 @@
+ReportDate;BusinessTransactionType;BusinessTransactionCycle;ReversalIndicator;Count;GrossAmount;InterchangeAmount;NetAmount;DefermentDays
+2021-01-21;Funds Disbursement RC=0350;The transaction does not have a cycle.;N;5;439,23;0,00;439,23;002
+2021-01-21;Merchandise Credit;Originals;N;707;66194,02;375,91;-65818,11;   
+2021-01-21;Merchandise Credit;Originals;N;12153;1902822,45;32751,02;-1870071,43;027
+2021-01-21;Purchase;Dispute Financial;N;1743;302439,80;5030,84;-297408,96;   
+2021-01-21;Purchase;Dispute Response Financial;N;63;23748,13;341,27;23406,86;   
+2021-01-21;Purchase;Not Defined;Y;219;11822,95;178,99;11643,96;   
+2021-01-21;Purchase;Originals;N;1159288;68569486,51;415785,04;68153701,47;   
+2021-01-21;Purchase;Originals;N;1180603;104083925,41;1639882,09;102444043,32;027
+2021-01-22;Fee Collection RC=5040;The transaction does not have a cycle.;N;5;12596772,63;0,00;-12596772,63;   
+2021-01-22;Funds Disbursement RC=0350;The transaction does not have a cycle.;N;2;90,18;0,00;90,18;   
+2021-01-22;Funds Disbursement RC=0350;The transaction does not have a cycle.;N;1;237,00;0,00;237,00;002
+2021-01-22;Merchandise Credit;Originals;N;931;95362,61;572,67;-94789,94;   
+2021-01-22;Merchandise Credit;Originals;N;10843;1591633,72;27322,89;-1564310,83;027
+2021-01-22;Purchase;Dispute Financial;N;2370;460928,47;7416,17;-453512,30;   
+2021-01-22;Purchase;Dispute Response Financial;N;112;59463,76;1095,85;58367,91;   
+2021-01-22;Purchase;Not Defined;Y;522;27946,92;395,83;27551,09;   
+2021-01-22;Purchase;Originals;N;1231273;72420877,53;440724,70;71980152,83;   
+2021-01-22;Purchase;Originals;N;1278222;115277385,02;1829357,11;113448027,91;027
+2021-01-23;Merchandise Credit;Dispute Financial;N;2;698,24;14,74;683,50;   
+2021-01-23;Merchandise Credit;Originals;N;920;82308,48;468,08;-81840,40;   
+2021-01-23;Merchandise Credit;Originals;N;10872;1746431,08;29179,37;-1717251,71;027
+2021-01-23;Purchase;Dispute Financial;N;2794;544545,52;8504,32;-536041,20;   
+2021-01-23;Purchase;Dispute Response Financial;N;38;23670,49;411,22;23259,27;   
+2021-01-23;Purchase;Not Defined;Y;271;10512,91;122,57;10390,34;   
+2021-01-23;Purchase;Originals;N;1495147;88176902,23;531245,63;87645656,60;   
+2021-01-23;Purchase;Originals;N;1339551;113836430,80;1779582,67;112056848,13;027
+2021-01-24;Merchandise Credit;Originals;N;785;69209,96;399,64;-68810,32;   
+2021-01-24;Merchandise Credit;Originals;N;10908;1632852,88;27724,69;-1605128,19;027
+2021-01-24;Purchase;Dispute Financial;N;999;215172,84;3689,71;-211483,13;   
+2021-01-24;Purchase;Dispute Response Financial;N;131;53223,45;865,91;52357,54;   
+2021-01-24;Purchase;Not Defined;Y;44;6315,08;89,38;6225,70;   
+2021-01-24;Purchase;Originals;N;1569111;86706810,07;511822,30;86194987,77;   
+2021-01-24;Purchase;Originals;N;1333650;103077559,69;1568283,12;101509276,57;027
